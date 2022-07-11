@@ -1,0 +1,7 @@
+<launch>
+    <node
+        name="jinko_games"
+        pkg="jinko_games"
+        type="camera.py"
+        output="screen" />
+</launch>

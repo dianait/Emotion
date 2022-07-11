@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>jinko_games</name>
+  <version>0.0.0</version>
+  <description>The jinko_games package</description>
+  <maintainer email="dianait.dev@gmail.com">Diana Hernández Soler</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>rospy</build_depend>
+
+  <build_export_depend>rospy</build_export_depend>
+
+  <exec_depend>rospy</exec_depend>
+
+</package>
+
